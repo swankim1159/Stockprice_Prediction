@@ -5,6 +5,7 @@ This project automates data collection, ensures statistical rigor, and provides 
 
 *Warning; This project is NOT related to any stock recommendation or subsidiaries. 
 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 PHASE 1
 
@@ -37,6 +38,7 @@ Run the code to automatically handle data collection, processing, and prediction
 Visualize results through intuitive graphs.
 Review detailed investment insights printed in the output.
 
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
 
 PHASE 2
 
