@@ -7,6 +7,7 @@ This project automates data collection, ensures statistical rigor, and provides 
 
 
 PHASE 1
+
 🎯 Key Features
 
 Automated Data Collection
@@ -38,9 +39,8 @@ Review detailed investment insights printed in the output.
 
 
 PHASE 2
-Below is the translated content for the "Phase 2 Major Improvements" and "Expected Outcomes" sections, formatted to seamlessly integrate into your GitHub README in English:
 
-🎯 Phase 2 Major Improvements
+🎯 Major Improvements
 
 Financial Metrics Integration (ARIMAX Model)
 Valuation Metrics: PER, PBR, EPS
