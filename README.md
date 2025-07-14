@@ -14,3 +14,14 @@ index 13dfa5a00062788f8d5c44f0d732dc12752b5e2f..3ac1e08065e9d6e8f31134480f678a9f
  4. **Phase 4** – Simple web dashboard (`Phasefour_webdashboard_dev`).
  
  This code is for research purposes only and does not constitute financial advice.
++
++## Setup
++Install the required Python packages using pip:
++
++```bash
++pip install pandas numpy matplotlib seaborn statsmodels scikit-learn requests beautifulsoup4 yfinance flask
++```
++
+ 
+EOF
+)
