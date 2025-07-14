@@ -2,6 +2,7 @@ Stock Price Prediction Model
 
 A machine learning model for predicting stock prices, focusing on Samsung Electronics (005930.KS) and Samsung Electronics Preferred (005935.KS). 
 This project automates data collection, ensures statistical rigor, and provides practical insights for investors.
+
 *Warning; This project is NOT related to any stock recommendation or subsidiaries. 
 
 🎯 Key Features
