@@ -26,6 +26,7 @@ Offers actionable interpretations from an investment perspective.
 
 Prerequisites
 Install the required libraries using the following command:
+
 "pip install pandas numpy matplotlib seaborn statsmodels scikit-learn yfinance beautifulsoup4 requests"
 
 Usage
