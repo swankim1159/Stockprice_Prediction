@@ -1,3 +1,4 @@
+ (cd "$(git rev-parse --show-toplevel)" && git apply --3way <<'EOF' 
 diff --git a/README.md b/README.md
 index 13dfa5a00062788f8d5c44f0d732dc12752b5e2f..3ac1e08065e9d6e8f31134480f678a9fce9861e0 100644
 --- a/README.md
@@ -21,3 +22,6 @@ index 13dfa5a00062788f8d5c44f0d732dc12752b5e2f..3ac1e08065e9d6e8f31134480f678a9f
 +pip install pandas numpy matplotlib seaborn statsmodels scikit-learn requests beautifulsoup4 yfinance flask
 +```
 +
+ 
+EOF
+)
