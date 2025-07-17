@@ -16,3 +16,8 @@ Install the required Python packages using pip:
 ```bash
 pip install pandas numpy matplotlib seaborn statsmodels scikit-learn requests beautifulsoup4 yfinance flask
 ```
+
+# References
+
+Samsung Electronics is listed on the Korean exchange with ticker "005930",
+and the preferred shares use ticker "005935".
