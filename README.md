@@ -9,3 +9,10 @@
  4. **Phase 4** – Simple web dashboard (`Phasefour_webdashboard_dev`).
  
  This code is for research purposes only and does not constitute financial advice.
+
+## Setup
+Install the required Python packages using pip:
+
+```bash
+pip install pandas numpy matplotlib seaborn statsmodels scikit-learn requests beautifulsoup4 yfinance flask
+```
