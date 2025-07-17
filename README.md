@@ -14,10 +14,13 @@
 Install the required Python packages using pip:
 
 ```bash
-pip install pandas numpy matplotlib seaborn statsmodels scikit-learn requests beautifulsoup4 yfinance flask
+pip install pandas numpy matplotlib seaborn statsmodels scikit-learn requests flask twilio
 ```
 
-# References
+After running the Phase 1 script, a `forecast.csv` file will be generated which is used by the simple dashboard in Phase 4.
 
-Samsung Electronics is listed on the Korean exchange with ticker "005930",
-and the preferred shares use ticker "005935".
+# Caution
+Because many finance APIs are blocked, Phase 1 loads historical Samsung prices from a public CSV hosted on GitHub (Emma243220056/005930.KS_daily_data.csv).
+
+Samsung Electronics is listed on the Korean exchange with ticker **005930** and the preferred shares use ticker **005935**.
+Fundamental indicators in Phase 2 are provided from a small static sample for demonstration purposes.
